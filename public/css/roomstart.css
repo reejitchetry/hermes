@@ -1,0 +1,198 @@
+#bar
+  {
+    
+     color:#FEFFFF;
+     font-family:'Overlock SC';
+    font-size:19px;
+  }
+#cred
+{
+     border : 2px solid #3AAFA9;
+    
+}
+  .btn-primary
+  {
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 15px;
+    background: #3AAFA9;
+    color: #fff;
+    border-radius: 20px;
+    text-decoration: none;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    border-color: white;
+    width:100%;
+    } 
+  
+    .style3
+    {
+        color:#FEFFFF;
+       font-family:'Ubuntu', sans-serif;
+    font-size:100px;
+
+
+    }
+    .gstyle2
+    {
+         color:#3AAFA9;
+         font-family:'Overlock SC';
+    font-size: 50px;
+
+    }
+    .gstyleone
+   {  
+       
+        
+         color:#FEFFFF;
+         font-family:'Overlock SC';
+    font-size:17px;
+     
+
+   }
+    
+   .gstyle1
+   {
+          color:black;
+    font-size:15px;
+    font-weight: 400;
+
+   }
+
+
+  .gstyle
+   {
+       color:#FEFFFF;
+       font-family:'Overlock SC';
+    font-size:40px;
+    
+
+   }
+
+   .gstyle3
+    {
+        color:#3AAFA9;
+        font-family:'Overlock SC';
+    font-size: 100px;
+
+
+    }
+    .style2
+    {
+         color:#FEFFFF;
+         font-family:'Overlock SC';
+    font-size: 50px;
+
+    }
+    
+   .style1
+   {
+        color:#FEFFFF;
+        font-family:'Overlock SC';
+    font-size:20px;
+
+   }
+
+
+  .style
+   {
+        color:#FEFFFF;
+        font-family:'Overlock SC';
+    font-size:25px;
+    
+
+   }
+   
+   
+     body
+   {
+       background: url('hermes.gif') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+   }
+  
+  
+
+    
+    input[type="text"] {
+          color:white;
+          background-color:transparent;
+         font-family:'Ubuntu', sans-serif;
+    margin: 8px 0;
+  border-radius: 20px;
+  text-decoration: none;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  border-color: white;
+      }
+    .gstyletwo
+   {  
+         color:#FEFFFF;
+         font-family:'Overlock SC';
+    font-size:17px;
+     
+
+   }
+ 
+    
+ a{
+
+   color:#3AAFA9;
+   text-decoration:none;
+
+ }
+
+    
+ .btn-primary:hover
+ {
+   position: relative;
+   display: inline-block;
+   padding: 8px 20px;
+   margin-top: 15px;
+   background: white;
+   color: black;
+   border-radius: 20px;
+   text-decoration: none;
+   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+   border-color: white;
+   width:100%;
+   } 
+
+a:hover
+{
+    color:white;
+    text-decoration:none;
+
+}
+
+
+
+.red
+{
+   
+    display:none;
+}
+
+#mychart3_status{
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 20px;
+}
+ 
+#mychart3_bar{
+  width: 5%;
+  height: 5px;
+  background-color:red;
+  text-align: center;
+  line-height: 3px;
+  color: black;
+  border-radius: 20px;
+}
+
+#check1
+{
+  display: none;
+}
+
+

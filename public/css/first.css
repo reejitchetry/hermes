@@ -1,0 +1,237 @@
+ .btn-primary:hover
+  {
+     background-color:#3AAFA9;
+     color:#FEFFFF ; 
+     border-color: #277672;
+     
+    }
+    .btn-primary
+    {
+      background-color:#3AAFA9;
+      color:#FEFFFF ;
+      border-color: #277672;
+      
+      }
+
+ 
+  
+  .firsthalf
+  {
+    position: relative;
+    top:45px; 
+  }
+  
+    .style3
+    {
+        color:#FEFFFF;
+       font-family:'Ubuntu', sans-serif;
+    font-size:100px;
+
+
+    }
+    .gstyle2
+    {
+         color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size: 50px;
+
+    }
+    .gstyleone
+   {  
+       
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:35px;
+     
+
+   }
+    
+   .gstyle1
+   {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:20px;
+
+   }
+
+
+  .gstyle
+   {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:17px;
+   
+
+   }
+
+   .gstyle3
+    {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size: 100px;
+
+
+    }
+    .style2
+    {
+         color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size: 50px;
+
+    }
+    
+   .style1
+   {
+        color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size:20px;
+
+   }
+
+
+  .style
+   {
+        color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size:15px;
+     font-style: italic;
+
+   }
+   
+    #one
+    {
+      
+         height:300px;
+         
+        background-color:#3AAFA9;
+        text-align: center;
+        
+     
+    }
+   
+     .bstyle2
+    {
+         
+      font-family:'Overlock SC', cursive;
+      font-size: 40px;
+
+    }
+    .white
+    {
+      color:white;
+     
+    }
+    
+   .centered
+   {
+     position:relative;
+     top:20%;
+     
+   }
+  
+ 
+  
+
+
+    .greenbg
+    {
+      background-color:#3AAFA9; 
+    }
+    
+
+    
+    
+      #last
+    {
+         display:none;
+            text-align:center; 
+        padding: 50px 50px 50px 50px;
+    }
+   .content
+   {
+      text-align:center;    
+   }
+  
+   
+    .three
+   {
+      background-color:#3AAFA9;    
+   }
+    
+ #jadu
+  {
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+  }
+ 
+
+
+   .gstylethree
+   {  
+       
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:14px;
+     
+
+   }
+  
+  .add
+  {
+    font-size:40px;
+    color:#3AAFA9;
+  
+  }
+  
+
+       
+
+
+    
+ .call:hover
+{
+   height:60px;
+   width:60px;
+
+}
+
+#mainbody
+{
+
+   display:none;
+
+}
+
+body
+{
+   background-color: #F3F3F3;
+
+}
+
+.pad
+{
+   padding: 50px 50px 50px 50px;
+
+}
+
+
+
+.loginbtn
+{
+ background-color:#3AAFA9;
+     color:#FEFFFF ;
+     border-color: #277672;
+}
+
+.first
+{
+    background: url('pic/chatting.jpg') no-repeat center ; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; 
+ 
+}

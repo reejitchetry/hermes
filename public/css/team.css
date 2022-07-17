@@ -1,0 +1,130 @@
+ .btn-primary
+  {
+     background-color:#FEFFFF;
+     color:#3AAFA9  ;
+    font-family:'Overlock SC', cursive;
+     width:250px;
+    }
+ 
+ #bar
+  {
+   
+     color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size:19px;
+  }
+  
+  
+    .style3
+    {
+        color:#FEFFFF;
+       font-family:'Ubuntu', sans-serif;
+    font-size:100px;
+
+
+    }
+    .gstyle2
+    {
+         color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size: 50px;
+
+    }
+    .gstyleone
+   {  
+       
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:35px;
+     
+
+   }
+    
+   .gstyle1
+   {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:20px;
+
+   }
+
+
+  .gstyle
+   {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size:15px;
+     font-style: italic;
+
+   }
+
+   .gstyle3
+    {
+        color:#3AAFA9;
+       font-family:'Overlock SC', cursive;
+    font-size: 100px;
+
+
+    }
+    .style2
+    {
+         color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size: 50px;
+
+    }
+    
+   .style1
+   {
+        color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size:20px;
+
+   }
+
+
+  .style
+   {
+        color:#FEFFFF;
+       font-family:'Overlock SC', cursive;
+    font-size:15px;
+     font-style: italic;
+
+   }
+   
+    #one
+    {
+      
+         height:300px;
+         
+        background-color:#3AAFA9;
+        text-align: center;
+        
+     
+    }
+   
+     .bstyle2
+    {
+         
+      font-family:'Overlock SC', cursive;
+      font-size: 40px;
+
+    }
+    .white
+    {
+      color:white;
+     
+    }
+    
+    img
+    {
+        
+        display:none;
+    }
+ 
+ 
+ 
+
+
+  
+ 
